@@ -1,0 +1,3 @@
+Eu quis resolver o desafio no sgbd do postgres e não da Oracle.
+
+Por isso, alguns scripts e fotos de resultados podem parecer diferentes, pois na hora de povoar os dados faltou algumas inserções.
